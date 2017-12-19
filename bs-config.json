@@ -1,3 +1,4 @@
 {
+    "port": 4201,
     "files": ["./**/*.{html,htm,css,scss,js}"]
 }
